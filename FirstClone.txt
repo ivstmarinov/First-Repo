@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 My Test add
-=======
-My Test
 
 
 
-add lines
->>>>>>> 54b6beaab0a0c2e40bc7a84d853b0bf591cabfb2
+
